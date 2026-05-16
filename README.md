@@ -10,7 +10,7 @@ Kullanıcı dostu arayüzü, gelişmiş istatistik paneli ve veri saklama özell
 ##  Uygulama Ekran Görüntüsü
 
 <p align="center">
-  <img src="Screenshots/GanoApp.png" alt="Uygulama Arayüzü" width="380">
+  <img width="435" height="977" alt="GanoApp" src="https://github.com/user-attachments/assets/657d014d-8a54-417a-b1b1-46651b8e0696" />
 </p>
 
 ---
